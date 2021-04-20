@@ -5,7 +5,8 @@
     android:id="@+id/layout_root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="ui.FirstFragment">
+    tools:context="ui.FirstFragment"
+    android:background="#96E3E2">
 
     <!-- TODO: Update blank fragment layout -->
 
